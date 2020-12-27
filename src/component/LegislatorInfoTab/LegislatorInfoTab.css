@@ -1,0 +1,22 @@
+#legislator-info-tab {
+  top: 8rem;
+  left: 2rem;
+  position: absolute;
+  overflow: auto;
+  width: 35rem;
+  height: 80%;
+  z-index: 5000;
+  box-sizing: content-box;
+}
+
+#legislator-info-tab button.close {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+#legislator-info-tab img {
+  width: 25%;
+  display: inline-block;
+  margin: 1rem;
+}

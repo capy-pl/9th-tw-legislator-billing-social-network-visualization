@@ -1,0 +1,81 @@
+#left-panel .btn {
+  margin: 0.2rem;
+}
+
+.color-kmt {
+  border-color: #005caf;
+  transition: 0.2s ease-in;
+}
+
+.color-kmt:hover {
+  background-color: #005caf;
+}
+
+.color-kmt.clicked {
+  background-color: #005caf;
+}
+
+.color-dpp {
+  border-color: #24936e;
+  transition: 0.2s ease-in;
+}
+
+.color-dpp:hover {
+  background-color: #24936e;
+}
+
+.color-dpp.clicked {
+  background-color: #24936e;
+}
+
+.color-pfp {
+  border-color: #f05e1c;
+  transition: 0.2s ease-in;
+}
+
+.color-pfp:hover {
+  background-color: #f05e1c;
+}
+
+.color-pfp.clicked {
+  background-color: #f05e1c;
+}
+
+.color-times {
+  border-color: #ffb11b;
+  transition: 0.2s ease-in;
+}
+
+.color-times:hover {
+  background-color: #ffb11b;
+}
+
+.color-times.clicked {
+  background-color: #ffb11b;
+}
+
+.color-nonleague {
+  border-color: #c1328e;
+  transition: 0.2s ease-in;
+}
+
+.color-nonleague:hover {
+  background-color: #c1328e;
+}
+
+.color-nonleague.clicked {
+  background-color: #c1328e;
+}
+
+.color-none {
+  transition: 0.2s ease-in;
+  border-color: #656765;
+}
+
+.color-none:hover {
+  background-color: #656765;
+}
+
+.color-none.clicked {
+  background-color: #656765;
+}
