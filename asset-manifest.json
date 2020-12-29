@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/9th-tw-legislator-billing-social-network-visualization/static/css/main.26d975f6.chunk.css",
+    "main.js": "/9th-tw-legislator-billing-social-network-visualization/static/js/main.d4727d5e.chunk.js",
+    "main.js.map": "/9th-tw-legislator-billing-social-network-visualization/static/js/main.d4727d5e.chunk.js.map",
+    "runtime-main.js": "/9th-tw-legislator-billing-social-network-visualization/static/js/runtime-main.34c8fc70.js",
+    "runtime-main.js.map": "/9th-tw-legislator-billing-social-network-visualization/static/js/runtime-main.34c8fc70.js.map",
+    "static/css/2.fb3faa3f.chunk.css": "/9th-tw-legislator-billing-social-network-visualization/static/css/2.fb3faa3f.chunk.css",
+    "static/js/2.65fe046f.chunk.js": "/9th-tw-legislator-billing-social-network-visualization/static/js/2.65fe046f.chunk.js",
+    "static/js/2.65fe046f.chunk.js.map": "/9th-tw-legislator-billing-social-network-visualization/static/js/2.65fe046f.chunk.js.map",
+    "static/js/3.b49f0d8a.chunk.js": "/9th-tw-legislator-billing-social-network-visualization/static/js/3.b49f0d8a.chunk.js",
+    "static/js/3.b49f0d8a.chunk.js.map": "/9th-tw-legislator-billing-social-network-visualization/static/js/3.b49f0d8a.chunk.js.map",
+    "index.html": "/9th-tw-legislator-billing-social-network-visualization/index.html",
+    "static/css/2.fb3faa3f.chunk.css.map": "/9th-tw-legislator-billing-social-network-visualization/static/css/2.fb3faa3f.chunk.css.map",
+    "static/css/main.26d975f6.chunk.css.map": "/9th-tw-legislator-billing-social-network-visualization/static/css/main.26d975f6.chunk.css.map",
+    "static/js/2.65fe046f.chunk.js.LICENSE.txt": "/9th-tw-legislator-billing-social-network-visualization/static/js/2.65fe046f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c8fc70.js",
+    "static/css/2.fb3faa3f.chunk.css",
+    "static/js/2.65fe046f.chunk.js",
+    "static/css/main.26d975f6.chunk.css",
+    "static/js/main.d4727d5e.chunk.js"
+  ]
+}
