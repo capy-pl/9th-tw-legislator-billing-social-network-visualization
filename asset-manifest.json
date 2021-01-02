@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/9th-tw-legislator-billing-social-network-visualization/static/css/main.26d975f6.chunk.css",
-    "main.js": "/9th-tw-legislator-billing-social-network-visualization/static/js/main.de6fe0e6.chunk.js",
-    "main.js.map": "/9th-tw-legislator-billing-social-network-visualization/static/js/main.de6fe0e6.chunk.js.map",
+    "main.js": "/9th-tw-legislator-billing-social-network-visualization/static/js/main.b3865ec7.chunk.js",
+    "main.js.map": "/9th-tw-legislator-billing-social-network-visualization/static/js/main.b3865ec7.chunk.js.map",
     "runtime-main.js": "/9th-tw-legislator-billing-social-network-visualization/static/js/runtime-main.34c8fc70.js",
     "runtime-main.js.map": "/9th-tw-legislator-billing-social-network-visualization/static/js/runtime-main.34c8fc70.js.map",
     "static/css/2.fb3faa3f.chunk.css": "/9th-tw-legislator-billing-social-network-visualization/static/css/2.fb3faa3f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.fb3faa3f.chunk.css",
     "static/js/2.65fe046f.chunk.js",
     "static/css/main.26d975f6.chunk.css",
-    "static/js/main.de6fe0e6.chunk.js"
+    "static/js/main.b3865ec7.chunk.js"
   ]
 }
