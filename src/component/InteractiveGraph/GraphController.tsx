@@ -69,10 +69,16 @@ export default class GraphController extends React.PureComponent<Props, State> {
         <div id='left-panel'>
           <h2 style={{ textAlign: 'right' }}>第九屆立委提案網路視覺化</h2>
           <p>
-          灣形便，動世科來舉經突分委的亮一也接書本家熱業時門酒、唱不言良供，分教除場推高地只健孩，清通失於話我平別了土苦加一散此明乎形便！灣人真聞？光言現這辦身。學解得魚這定？生畫遊：器的阿子開園家生點；家易智出中病馬臺以始選動們叫你因源年起更又日。
+            本次連署網路的資料透過立法院提案API取得，總共取得第九屆任期內105年2月1號至108年3月8號共5264筆提案資料。在資料處理過程中，將以政黨名義或是
+            行政院提案之法案刪除，共剩下42共剩下4287筆提案資料。
+          </p>
+          <p>
+            此視覺化將每一位立法委員視為圖中的一個節點。在同一筆提案資料中，將裡面的提案人與聯署人做兩兩的組合並將其連線。圖中節點的大小代表該委員參與提案的
+            積極度，是利用該委員參與連署的次數大小比例所繪製。
           </p>
           <div style={{ marginTop: '3rem' }}>
             <h4>政黨</h4>
+            <p>點擊以下政黨標籤可針對圖中節點進行篩選(可複選)</p>
             <button onClick={this.onClickPartyLabel} className={`btn color-kmt ${this.clicked('中國國民黨')}`}>中國國民黨</button>
             <button onClick={this.onClickPartyLabel} className={`btn color-dpp ${this.clicked('民主進步黨')}`}>民主進步黨</button>
             <button onClick={this.onClickPartyLabel} className={`btn color-times ${this.clicked('時代力量')}`}>時代力量</button>
